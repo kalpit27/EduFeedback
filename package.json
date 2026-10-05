@@ -1,0 +1,15 @@
+{
+  "name": "institute-feedback-platform",
+  "version": "1.0.0",
+  "description": "Production-ready Institute Feedback & Academic Communication SaaS Platform",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "build": "cd backend && npm run build && cd ../frontend && npm run build",
+    "install:all": "cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": ["institute", "feedback", "education", "saas", "react", "nodejs", "mongodb"],
+  "author": "",
+  "license": "MIT"
+}
