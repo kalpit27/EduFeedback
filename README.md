@@ -1,4 +1,10 @@
-# EduFeedback — Institute Feedback & Academic Communication SaaS Platform
+<div align="center">
+  <img src="screenshots/logo.png" alt="EduFeedback Logo" width="120" height="120" style="border-radius: 24px; box-shadow: 0 4px 20px rgba(29, 206, 216, 0.3);" />
+  <h1>EduFeedback</h1>
+  <p><strong>Institute Feedback & Academic Communication SaaS Platform</strong></p>
+</div>
+
+<div align="center">
 
 [![React](https://img.shields.io/badge/Frontend-React%2018%20%2B%20Vite%20%2B%20TypeScript-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![Android](https://img.shields.io/badge/Mobile-Android%20%2B%20Capacitor-3DDC84?logo=android&logoColor=white)](https://capacitorjs.com/)
@@ -6,6 +12,8 @@
 [![MongoDB Atlas](https://img.shields.io/badge/Database-MongoDB%20Atlas%20%2B%20Mongoose-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/atlas)
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+</div>
 
 An enterprise-grade, multi-department **Institute Feedback & Academic Communication SaaS Platform** with a companion **Native Android Mobile App**. Built with strict **Academic Data Isolation**, **Student Feedback Anonymity & Confidentiality Protection**, a **Native Dynamic Form Builder**, **Role-Based Access Control (RBAC)**, **Real-Time Analytics**, **Automated Attendance Monitoring**, and **Certified Institutional PDF Report Generation**.
 

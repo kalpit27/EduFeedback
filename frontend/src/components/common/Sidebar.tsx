@@ -85,9 +85,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen }) => {
     >
       {/* Brand Header */}
       <div className="h-16 flex items-center px-5 border-b border-neutral-border gap-3 bg-[#FFF9D8]/30">
-        <div className="w-9 h-9 rounded-lg bg-[#1DCED8] flex items-center justify-center text-white font-bold shadow-subtle">
-          <ShieldCheck className="w-5 h-5" />
-        </div>
+        <img src="/logo.png" alt="EduFeedback" className="w-9 h-9 rounded-lg object-cover shadow-subtle border border-[#1DCED8]/40" />
         <div className="overflow-hidden">
           <h1 className="text-sm font-bold text-[#1F2937] tracking-tight leading-tight truncate">EduFeedback</h1>
           <p className="text-[10px] uppercase tracking-wider font-semibold text-[#E6853A]">Academic SaaS</p>

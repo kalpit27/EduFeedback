@@ -40,8 +40,8 @@ export const LoginPage: React.FC = () => {
   return (
     <div className="min-h-screen flex flex-col justify-center py-10 sm:px-6 lg:px-8 bg-gradient-to-br from-[#FFF9D8]/50 via-white to-[#1DCED8]/10">
       <div className="sm:mx-auto sm:w-full sm:max-w-md text-center">
-        <div className="inline-flex p-3 bg-[#1DCED8] text-white rounded-2xl shadow-hover mb-3">
-          <ShieldCheck className="w-8 h-8" />
+        <div className="inline-flex p-1.5 bg-[#1DCED8] rounded-2xl shadow-hover mb-3 border-2 border-white/60">
+          <img src="/logo.png" alt="EduFeedback Logo" className="w-12 h-12 rounded-xl object-cover" />
         </div>
         <h2 className="text-2xl sm:text-3xl font-extrabold text-[#1F2937] tracking-tight">
           Institute Feedback & Academic Platform
