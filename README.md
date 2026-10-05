@@ -45,6 +45,51 @@ An enterprise-grade, multi-department **Institute Feedback & Academic Communicat
 
 ---
 
+## 📸 Application Showcase & Screenshots
+
+### 🔐 Authentication & Onboarding
+| Portal Sign In (1-Click Personas) | Account Registration & Avatar Picker |
+| :---: | :---: |
+| ![Login Portal](screenshots/login.jpeg) | ![Registration](screenshots/signup.jpeg) |
+
+---
+
+### 🏛️ Admin Intelligence & Dynamic Form Builder
+| Multi-Department Analytics Dashboard | Dynamic Form Builder (Question Palette) |
+| :---: | :---: |
+| ![Admin Dashboard](screenshots/admin_dashboard.jpeg) | ![Form Builder](screenshots/admin1.jpeg) |
+
+| Institutional Academic Hierarchy & People Directory |
+| :---: |
+| ![Academic Structure](screenshots/admin2.jpeg) |
+
+---
+
+### 🎓 Student Feedback Portal & Evaluation
+| Confidential Survey Form Filling | Star Ratings & Metrics |
+| :---: | :---: |
+| ![Student Survey](screenshots/student1.jpeg) | ![Student Rating Matrix](screenshots/student2.jpeg) |
+
+| Student Attendance Breakdown & Teacher Remarks |
+| :---: |
+| ![Student Attendance](screenshots/student3.jpeg) |
+
+---
+
+### 👨‍🏫 Faculty Portal & Confidential Tracking
+| Faculty Dashboard & Participation Stats | Lecture Attendance Management |
+| :---: | :---: |
+| ![Teacher Dashboard](screenshots/teacher1.jpeg) | ![Teacher Attendance](screenshots/teacher2.jpeg) |
+
+---
+
+### 👨‍👩‍👧 Parent & Guardian Portal
+| Ward Academic Performance & Evaluations | Institutional Grievance & Surveys |
+| :---: | :---: |
+| ![Parent Portal](screenshots/parent1.jpeg) | ![Parent Feedback](screenshots/parent2.jpeg) |
+
+---
+
 ## 👥 User Roles & Permissions
 
 | Role | Dashboard Experience | Permissions |
