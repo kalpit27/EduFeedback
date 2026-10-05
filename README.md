@@ -138,13 +138,18 @@ An enterprise-grade, multi-department **Institute Feedback & Academic Communicat
 
 ### 2. Clone and Setup Environment Variables
 
-In `backend/.env` (or copy from `backend/.env.example`):
+Copy the template from `backend/.env.example` into `backend/.env`:
+```bash
+cp backend/.env.example backend/.env
+```
+
+Configure your environment variables in `backend/.env`:
 ```env
 PORT=5000
-MONGODB_URI=mongodb://127.0.0.1:27017/institute_feedback
-# Or for MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/institute_feedback?retryWrites=true&w=majority
-JWT_SECRET=super_secret_institute_jwt_key_2026_production
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.example.mongodb.net/institute_feedback?retryWrites=true&w=majority
+# Or for local MongoDB:
+# MONGODB_URI=mongodb://127.0.0.1:27017/institute_feedback
+JWT_SECRET=your_super_secret_jwt_key_here_change_in_production
 CLIENT_URL=http://localhost:5173
 NODE_ENV=development
 ```
